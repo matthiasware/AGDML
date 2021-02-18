@@ -21,6 +21,10 @@
 - Ex_5: SVM, LOST, im grunde wurde eine SVM implementiert
 - Ex_6: Random Forests: LOST
 
+
+Bei exercise 0 & 1 gab es notebooks, die vervollständigt werden mussten.
+Für exercises 2-6 gab es lediglich aufgabenbeschreibungen in form von pdfs.
+
 ## Final project
 Collaborative Filtering with KNN & NMF
 
