@@ -1,0 +1,7 @@
+*
+!*/
+!*.csv
+!.gitignore
+!*.ipynb
+!*.pdf
+.ipynb_checkpoints
