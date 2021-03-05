@@ -1,6 +1,7 @@
 *
 !*/
 !*.npy
+!*.png
 !*.csv
 !.gitignore
 !*.ipynb
