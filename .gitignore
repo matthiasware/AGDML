@@ -6,4 +6,5 @@
 !.gitignore
 !*.ipynb
 !*.pdf
+!*.pptx
 .ipynb_checkpoints
