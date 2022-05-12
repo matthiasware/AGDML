@@ -2,15 +2,12 @@
 
 ## Samle Übung:
 
-1) Besprechung der Vorlesung
-2) Besprechung eines Lernverfahrens
+1) Ggf. Besprechung der Vorlesung
 2) Besprechung der Übungsserie
-4) Paper reading
 
 ## Intro
 - orga
 - python basics
-- git
 
 ## Exercises
 - Ex_0: Ordinary Least Squares: Diamond price prediction 
@@ -21,9 +18,8 @@
 - Ex_5: SVM, LOST, im grunde wurde eine SVM implementiert
 - Ex_6: Random Forests: LOST
 
+Für jede Übung gibt es notebooks die vervollständigt werden müssen
 
-Bei exercise 0 & 1 gab es notebooks, die vervollständigt werden mussten.
-Für exercises 2-6 gab es lediglich aufgabenbeschreibungen in form von pdfs.
 
 ## Final project
 Collaborative Filtering with KNN & NMF
